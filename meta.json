@@ -1,0 +1,18 @@
+"root":{10 items
+"key":int4
+"updateAuthority":string"9MALZ7hGNbhMDTLaMbBpv5om42zPFHYG99NjC1Cua67i"
+"mint":string"DW3xVZRR8ARB4TDPhUsdfrm69fbdre1DjX7fAsnSyZTu"
+"data":{5 items
+"name":string"THERMES"
+"symbol":string"THRMS"
+"uri":string"https://arweave.net/fMC9sidsmdoX-6CAieQUPaEwhfZP0PIC3TcdNwCJ8No?ext=png"
+"sellerFeeBasisPoints":int0
+"creators":undefined
+}
+"primarySaleHappened":int0
+"isMutable":int1
+"editionNonce":int255
+"tokenStandard":int2
+"collection":undefined
+"uses":undefined
+}
